@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Wed Dec 17 17:37:20 CST 2014
+onejar.license.required=true
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=false
+jarname=ReYun.jar
+manifest.mergeall=true
+manifest.mainclass=
+manifest.file=<createnew>
+jarname.isextern=false
+onejar.expand=
+excludes=<po|ReYunSdk>~com/~example/~main/~MainActivity.class;<po|ReYunSdk>~com/~sdk/;<jar|android-support-v4.jar>;<jar|annotations.jar>
+includes=
