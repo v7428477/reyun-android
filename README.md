@@ -1,6 +1,8 @@
+
 add reyunchannel  & reyunsdk  Source Code
 create version ：reyunchannel ->1.0  reyunsdk->1.0
-
+add Folder release  /ReYun.jar
+		    / ReYunChannel.jar
 接入方法说明：
 
 1.	配置应用权限到 AndroidManifest.xml 文件
